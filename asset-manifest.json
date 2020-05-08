@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VideoConnect/static/css/main.d1b05096.chunk.css",
+    "main.js": "/VideoConnect/static/js/main.87906102.chunk.js",
+    "main.js.map": "/VideoConnect/static/js/main.87906102.chunk.js.map",
+    "runtime-main.js": "/VideoConnect/static/js/runtime-main.c3c380dc.js",
+    "runtime-main.js.map": "/VideoConnect/static/js/runtime-main.c3c380dc.js.map",
+    "static/js/2.5338c671.chunk.js": "/VideoConnect/static/js/2.5338c671.chunk.js",
+    "static/js/2.5338c671.chunk.js.map": "/VideoConnect/static/js/2.5338c671.chunk.js.map",
+    "index.html": "/VideoConnect/index.html",
+    "precache-manifest.b1c71d1e3013c76e2b005674accaecae.js": "/VideoConnect/precache-manifest.b1c71d1e3013c76e2b005674accaecae.js",
+    "service-worker.js": "/VideoConnect/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/VideoConnect/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5338c671.chunk.js.LICENSE.txt": "/VideoConnect/static/js/2.5338c671.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/VideoConnect/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c380dc.js",
+    "static/js/2.5338c671.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.87906102.chunk.js"
+  ]
+}
